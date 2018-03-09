@@ -1,2 +1,1 @@
-# PythonExercise
-python exercise
+python入门
